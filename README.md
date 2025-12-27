@@ -31,6 +31,12 @@ Download or clone this repository
 Open index.html in any web browser
 Explore the website and features
 
+𝗧𝗲𝗮𝗺 𝗠𝗲𝗺𝗯𝗲𝗿𝘀
+Prateek Jangid
+Tarun Sharma
+Tushar Sharma
+Vandit Sharma 
+
 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧 𝐈𝐧𝐟𝐨
 Brew & Bean Coffee Co.
 C-Scheme, Jaipur, Rajasthan
